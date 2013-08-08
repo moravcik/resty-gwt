@@ -3,9 +3,10 @@
   <groupId>org.fusesource.restygwt</groupId>
   <artifactId>restygwt</artifactId>
   <versioning>
+    <release>1.4-moravcik-2013-08-07-RELEASE</release>
     <versions>
-      <version>1.4-SNAPSHOT</version>
+      <version>1.4-moravcik-2013-08-07-RELEASE</version>
     </versions>
-    <lastUpdated>20130517022252</lastUpdated>
+    <lastUpdated>20130808003754</lastUpdated>
   </versioning>
 </metadata>
